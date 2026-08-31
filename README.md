@@ -6,3 +6,11 @@ It involves real-time geospatial routing, AR interactions, persistent shared-wor
 ## My role
 
 I designed and built the system end to end, spanning the mobile client, backend services, geospatial pipeline, AR interactions and deployment infrastructure.
+
+## Core technology
+
+- React Native · TypeScript
+- Node.js · PostgreSQL
+- Kotlin · ARCore
+- OpenStreetMap · Valhalla
+- Docker · Railway
