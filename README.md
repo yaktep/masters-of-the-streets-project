@@ -7,7 +7,7 @@ It involves real-time geospatial routing, AR interactions, persistent shared-wor
 
 I designed and built the system end to end, spanning the mobile client, backend services, geospatial pipeline, AR interactions and deployment infrastructure.
 
-## Core technology
+## Core Technology
 
 - React Native · TypeScript
 - Node.js · PostgreSQL
@@ -15,7 +15,7 @@ I designed and built the system end to end, spanning the mobile client, backend 
 - OpenStreetMap · Valhalla
 - Docker · Railway
 
-- ## Engineering highlights
+## Engineering Highlights
 
 - Real-world game-object placement constrained by walkability, routing and physical-world hazards
 - Self-hosted Valhalla routing over OpenStreetMap data for pedestrian navigation and geospatial snapping
