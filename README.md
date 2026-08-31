@@ -21,3 +21,7 @@ I designed and built the system end to end, spanning the mobile client, backend 
 - Self-hosted Valhalla routing over OpenStreetMap data for pedestrian navigation and geospatial snapping
 - Native Kotlin / ARCore integration for world-anchored AR interactions
 - Persistent multiplayer state with atomic claims, validation and cooperative / competitive game mechanics
+
+## About This Showcase
+
+The production repository is private. This public repository presents selected architecture, engineering decisions and product visuals from the project.
