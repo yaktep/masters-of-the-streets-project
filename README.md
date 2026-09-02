@@ -10,7 +10,7 @@ It involves real-time geospatial routing, AR interactions, persistent shared-wor
   <img src="./Command-Room.jpeg" height="375">
 </p>
 
-## My role
+## My Role
 
 I designed and built the system end to end, spanning the mobile client, backend services, geospatial pipeline, AR interactions and deployment infrastructure.
 
