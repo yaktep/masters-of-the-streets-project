@@ -6,7 +6,9 @@ It involves real-time geospatial routing, AR interactions, persistent shared-wor
 ## Product Visual
 
 <p align="center">
-  <img src="./Augmented%20Reality%20Glyph%20Hunt.png" width="360">
+  <img src="./Augmented%20Reality%20Glyph%20Hunt.png" width="340">
+  &nbsp;&nbsp;
+  <img src="./command-room.png" width="340">
 </p>
 
 ## My role
