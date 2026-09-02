@@ -4,11 +4,10 @@ Masters of the Streets is a real-world urban game built around exploration, disc
 It involves real-time geospatial routing, AR interactions, persistent shared-world state and location-aware game logic.
 
 ## Product Visual
-
 <p align="center">
-  <img src="./Augmented%20Reality%20Glyph%20Hunt.png" width="340">
-  &nbsp;&nbsp;
-  <img src="./command-room.png" width="340">
+  <img src="./Augmented%20Reality%20Glyph%20Hunt.png" height="375">
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="./Command-Room.jpeg" height="375">
 </p>
 
 ## My role
