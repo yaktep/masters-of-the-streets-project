@@ -14,6 +14,27 @@ It involves real-time geospatial routing, AR interactions, persistent shared-wor
 
 I designed and built the system end to end, spanning the mobile client, backend services, geospatial pipeline, AR interactions and deployment infrastructure.
 
+## Project Structure
+
+### Apps — Product Surfaces
+
+The project is organized as a real multi-surface product rather than a single client:
+
+- `apps/admin` — operational and administrative tooling
+- `apps/backend` — API, game logic, real-time services and server authority
+- `apps/mobile` — the primary player experience
+- `apps/web` — authentication and account lifecycle: sign-in, registration, email verification, password reset and recovery flows
+
+### Infrastructure — Production Stack
+
+The repository also contains the infrastructure required to operate the system in production:
+
+- `infrastructure/migrations` — database schema evolution
+- `infrastructure/scripts` — operational and maintenance tooling
+- `infrastructure/supabase` — authentication and data-platform integration
+- `infrastructure/valhalla` — self-hosted routing infrastructure
+- Docker Compose and deployment configuration
+
 ## Core Technology
 
 - React Native · TypeScript
