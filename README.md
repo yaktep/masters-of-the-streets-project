@@ -40,7 +40,7 @@ The repository also contains the infrastructure required to operate the system i
 - Docker Compose and deployment configuration
 
 <p align="center">
-  <img src="./infrastructure-structure.jpeg" width="520">
+  <img src="./infrastructure-structure.jpg" width="520">
 </p>
 
 ## Core Technology
