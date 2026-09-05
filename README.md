@@ -26,7 +26,7 @@ The project is organized as a real multi-surface product rather than a single cl
 - `apps/web` — authentication and account lifecycle: sign-in, registration, email verification, password reset and recovery flows
 
 <p align="center">
-  <img src="./apps-structure.jpeg" width="520">
+  <img src="./apps-structure.jpeg" width="260">
 </p>
 
 ### Infrastructure — Production Stack
@@ -40,7 +40,7 @@ The repository also contains the infrastructure required to operate the system i
 - Docker Compose and deployment configuration
 
 <p align="center">
-  <img src="./infrastructure-structure.jpg" width="520">
+  <img src="./infrastructure-structure.jpg" width="260">
 </p>
 
 ## Core Technology
