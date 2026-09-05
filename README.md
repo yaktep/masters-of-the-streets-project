@@ -25,6 +25,10 @@ The project is organized as a real multi-surface product rather than a single cl
 - `apps/mobile` — the primary player experience
 - `apps/web` — authentication and account lifecycle: sign-in, registration, email verification, password reset and recovery flows
 
+<p align="center">
+  <img src="./apps-structure.jpeg" width="520">
+</p>
+
 ### Infrastructure — Production Stack
 
 The repository also contains the infrastructure required to operate the system in production:
@@ -34,6 +38,10 @@ The repository also contains the infrastructure required to operate the system i
 - `infrastructure/supabase` — authentication and data-platform integration
 - `infrastructure/valhalla` — self-hosted routing infrastructure
 - Docker Compose and deployment configuration
+
+<p align="center">
+  <img src="./infrastructure-structure.jpeg" width="520">
+</p>
 
 ## Core Technology
 
